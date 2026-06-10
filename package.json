@@ -1,0 +1,9 @@
+{
+  "name": "jobs-attachment-uploader-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel serverless API that appends file uploads to attachment fields on Airtable Jobs records.",
+  "engines": {
+    "node": ">=18"
+  }
+}
